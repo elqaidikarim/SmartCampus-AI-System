@@ -1,11 +1,21 @@
-# 👁️ SmartCampus: AI-Powered Biometric Attendance & Management System
+<div align="center">
 
-![Status](https://img.shields.io/badge/Project-Academic%20Research%20(PFE)-blueviolet?style=for-the-badge)
-![Tech](https://img.shields.io/badge/Tech-Deep%20Learning%20%7C%20Big%20Data%20%7C%20Biometrics-ff69b4?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <img src="https://github.com/user-attachments/assets/1c212afe-2d9c-49f9-b122-6aa7172de54a" width="150" alt="SmartCampus Logo">
+  <br>
 
-> **Next-Gen University System leveraging Dual-Biometrics (Face + Fingerprint) and a full Student Management Module (CRUD Operations).**
-> *Developed for EST El Kelaa des Sraghna.*
+  <h1>SmartCampus</h1>
+  <h3>AI-Powered Biometric Attendance & Management System</h3>
+
+  ![Status](https://img.shields.io/badge/Project-Academic%20Research%20(PFE)-blueviolet?style=for-the-badge)
+  ![Tech](https://img.shields.io/badge/Tech-Deep%20Learning%20%7C%20Big%20Data%20%7C%20Biometrics-ff69b4?style=for-the-badge)
+  ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+  <br>
+
+  > **Next-Gen University System leveraging Dual-Biometrics (Face + Fingerprint) and a full Student Management Module.**
+  > *Developed for EST El Kelaa des Sraghna.*
+
+</div>
 
 ---
 
@@ -19,19 +29,40 @@ Beyond security, the system acts as a complete **Administrative Hub**, allowing 
 
 ### 🎥 System Demonstration (The Vitrine)
 
-> *Live demonstration of the Core Modules.*
->
-> 🔒 **Privacy Disclaimer:** *All student names, photos, and IDs shown in these demonstrations are **synthetic/dummy data** generated for testing purposes. No real personal information is exposed.*
+<div align="center">
+  
+  > 🔒 **Privacy Disclaimer:** *All student names, photos, and IDs shown below are **synthetic/dummy data** generated for testing purposes. No real personal information is exposed.*
+  
+  <br>
 
-| **1. Face Recognition & Liveness** | **2. Advanced Student Management (CRUD)** |
-|:---:|:---:|
-| <video src="https://github.com/user-attachments/assets/5df5b54f-4ff9-4277-8ae8-91eed14a414c" controls width="100%"></video> | <video src="https://github.com/user-attachments/assets/2ab86c35-588e-4826-95f2-1f85a64ed198" controls width="100%"></video> |
-| *Real-time Detection & Anti-Spoofing* | *Full Management: Insert, Update, Delete & Select Records* |
+  <table>
+    <tr>
+      <td align="center"><b>1. Face Recognition & Liveness</b></td>
+      <td align="center"><b>2. Advanced Student Management (CRUD)</b></td>
+    </tr>
+    <tr>
+      <td align="center"><video src="https://github.com/user-attachments/assets/5df5b54f-4ff9-4277-8ae8-91eed14a414c" controls width="100%"></video></td>
+      <td align="center"><video src="https://github.com/user-attachments/assets/2ab86c35-588e-4826-95f2-1f85a64ed198" controls width="100%"></video></td>
+    </tr>
+    <tr>
+      <td align="center"><i>Real-time Detection & Anti-Spoofing</i></td>
+      <td align="center"><i>Insert, Update, Delete & Select Records</i></td>
+    </tr>
+  </table>
 
-| **3. Data Analytics & Dashboard** |
-|:---:|
-| <video src="https://github.com/user-attachments/assets/ccf10374-4d2e-41db-ac48-9c8c73dee63f" controls width="100%"></video> |
-| *Absenteeism Trends & Statistical Risk Prediction* |
+  <table>
+    <tr>
+      <td align="center"><b>3. Data Analytics & Dashboard</b></td>
+    </tr>
+    <tr>
+      <td align="center"><video src="https://github.com/user-attachments/assets/ccf10374-4d2e-41db-ac48-9c8c73dee63f" controls width="100%"></video></td>
+    </tr>
+    <tr>
+      <td align="center"><i>Absenteeism Trends & Statistical Risk Prediction</i></td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
@@ -73,15 +104,26 @@ This project was developed as a **Graduation Project (PFE)** and validated by th
 **Recruiters & Technical Leads:** I am available to present a live demo during an interview.
 
 ---
----
 
 ### 📜 Official Academic Validation
-> Graduation Project (PFE) submitted to **EST El Kelaa des Sraghna**.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b30cca58-61b5-43da-84f7-36db2be78654" width="400" alt="PFE Cover Page">
-  <p><i>Official Academic Cover Page</i></p>
-</div>
-<div align="center">
-  <b>Developed by:</b> <a href="https://github.com/elqaidikarim">Abdelkarim ELQAIDI</a> & <a href="https://github.com/BOUCHTALLA">Soufiane BOUCHTALLA</a>
+
+> **✅ Officially Graduated & Validated**
+> *Graduation Project (PFE) submitted to **EST El Kelaa des Sraghna**.*
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/b30cca58-61b5-43da-84f7-36db2be78654" width="400" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.5);" alt="PFE Cover Page">
+<br>
+<sub><i>Official Academic Cover Page</i></sub>
+
+<br><br>
+
+<b>Developed by:</b>
+<br>
+<a href="https://github.com/elqaidikarim"><img src="https://img.shields.io/badge/Abdelkarim%20ELQAIDI-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+&nbsp;
+<a href="https://github.com/BOUCHTALLA"><img src="https://img.shields.io/badge/Soufiane%20BOUCHTALLA-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
 </div>
