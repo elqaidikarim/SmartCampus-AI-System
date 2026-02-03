@@ -73,6 +73,15 @@ This project was developed as a **Graduation Project (PFE)** and validated by th
 **Recruiters & Technical Leads:** I am available to present a live demo during an interview.
 
 ---
+---
+
+### 📜 Official Academic Validation
+> Graduation Project (PFE) submitted to **EST El Kelaa des Sraghna**.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b30cca58-61b5-43da-84f7-36db2be78654" width="400" alt="PFE Cover Page">
+  <p><i>Official Academic Cover Page</i></p>
+</div>
 <div align="center">
   <b>Developed by:</b> <a href="https://github.com/elqaidikarim">Abdelkarim ELQAIDI</a> & <a href="https://github.com/BOUCHTALLA">Soufiane BOUCHTALLA</a>
 </div>
