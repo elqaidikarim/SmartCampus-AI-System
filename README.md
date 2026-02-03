@@ -74,5 +74,5 @@ This project was developed as a **Graduation Project (PFE)** and validated by th
 
 ---
 <div align="center">
-  <b>Developed by:</b> <a href="https://github.com/elqaidikarim">Abdelkarim ELQAIDI</a> & Soufiane BOUCHTALLA
+  <b>Developed by:</b> <a href="https://github.com/elqaidikarim">Abdelkarim ELQAIDI</a> & <a href="https://github.com/elqaidikarim](https://github.com/BOUCHTALLA">Soufiane BOUCHTALLA
 </div>
