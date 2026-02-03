@@ -25,12 +25,12 @@ Beyond security, the system acts as a complete **Administrative Hub**, allowing 
 
 | **1. Face Recognition & Liveness** | **2. Advanced Student Management (CRUD)** |
 |:---:|:---:|
-| <video src="https://github.com/user-attachments/assets/5df5b54f-4ff9-4277-8ae8-91eed14a414c" controls width="100%"></video> | <video src="https://github.com/user-attachments/assets/93f91c95-c831-4fbb-9f14-15389251ff88" controls width="100%"></video> |
+| <video src="https://github.com/user-attachments/assets/5df5b54f-4ff9-4277-8ae8-91eed14a414c" controls width="100%"></video> | <video src="https://github.com/user-attachments/assets/2ab86c35-588e-4826-95f2-1f85a64ed198" controls width="100%"></video> |
 | *Real-time Detection & Anti-Spoofing* | *Full Management: Insert, Update, Delete & Select Records* |
 
 | **3. Data Analytics & Dashboard** |
 |:---:|
-| <video src="https://github.com/user-attachments/assets/61c9a94f-3648-436b-b73a-45576fa99061" controls width="100%"></video> |
+| <video src="https://github.com/user-attachments/assets/ccf10374-4d2e-41db-ac48-9c8c73dee63f" controls width="100%"></video> |
 | *Absenteeism Trends & Statistical Risk Prediction* |
 
 ---
